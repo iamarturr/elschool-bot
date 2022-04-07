@@ -47,6 +47,7 @@ or
 * start server.bat
 
 
-## Links
-* Elschool (API, HTML, CSS, etc...): https://elschool.ru
+## Links and License
+* Elschool (API, HTML, CSS, etc.): https://elschool.ru
 * Creator bot: https://github.com/iamarturr
+* License: MIT
