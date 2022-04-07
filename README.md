@@ -1,7 +1,7 @@
 # Elschool VK bot
 
 
-INSTALLATION
+FILES STRUCTURE
 ------------
 
 Files and directories in the project:
@@ -18,3 +18,10 @@ Files and directories in the project:
       requirements.txt     requirements (¯\_(ツ)_/¯)
       start bot.bat        starter bot
       start server.bat     starter server
+
+
+INSTALLATION
+------------
+     git clone https://github.com/iamarturr/elschool-bot.git
+     cd elschool-bot
+     pip3 install -r requirements.txt
