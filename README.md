@@ -22,6 +22,10 @@ Files and directories in the project:
 
 INSTALLATION
 ------------
+First you need install project and requirements
+
      git clone https://github.com/iamarturr/elschool-bot.git
      cd elschool-bot
      pip3 install -r requirements.txt
+
+Secondly you need download [**wkhtmltopdf**](http://example.com/ "wkhtmltopdf")
