@@ -28,4 +28,4 @@ First you need install project and requirements
      cd elschool-bot
      pip3 install -r requirements.txt
 
-Secondly you need download [**wkhtmltopdf**](https://wkhtmltopdf.org/downloads.html "https://wkhtmltopdf.org/downloads.html")
+Secondly you need download [**wkhtmltopdf**](https://wkhtmltopdf.org/downloads.html "https://wkhtmltopdf.org/downloads.html") and add to path bin folder
