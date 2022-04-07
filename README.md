@@ -28,4 +28,25 @@ First you need install project and requirements
      cd elschool-bot
      pip3 install -r requirements.txt
 
-Secondly you need download [**wkhtmltopdf**](https://wkhtmltopdf.org/downloads.html "https://wkhtmltopdf.org/downloads.html") and add to path bin folder
+Secondly download [**wkhtmltopdf**](https://wkhtmltopdf.org/downloads.html "https://wkhtmltopdf.org/downloads.html") and add to path bin folder
+
+Thirdly download [**Microsoft Visual C++**](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 "https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170")
+
+
+## Configure
+
+1. Set token group in config.py.
+2. Set your vk link in config.py.
+
+## Run
+     python main.py
+     python converter_html.py
+
+or 
+* start bot.bat
+* start server.bat
+
+
+## Errors
+
+* 
