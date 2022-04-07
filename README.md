@@ -47,6 +47,6 @@ or
 * start server.bat
 
 
-## Errors
-
-* 
+## Links
+* Elschool (API, HTML, CSS, etc...): https://elschool.ru
+* Creator bot: https://github.com/iamarturr
