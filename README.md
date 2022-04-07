@@ -9,6 +9,7 @@ Files and directories in the project:
       eschool/             simple "OOP" elschool api
       handlers/            handlers for bot
       pkg/                 html and css for drawing of school performance
+      wkhtmltopdf/         converter html to image
       config.py            config (¯\_(ツ)_/¯)
       converter_html.py    drawing of school performance
       database.db          database (¯\_(ツ)_/¯)
