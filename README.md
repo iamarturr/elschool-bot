@@ -1,7 +1,7 @@
 # Elschool VK bot
 
 
-FILES STRUCTURE
+Files structure
 ------------
 
 Files and directories in the project:
@@ -21,7 +21,7 @@ Files and directories in the project:
       start server.bat     starter server
 
 
-INSTALLATION
+Installation
 ------------
 First you need install project and requirements
 
