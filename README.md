@@ -1,5 +1,9 @@
 # Elschool VK bot
 
+# Files structure
+See Async Wrapper for Elschool API: https://github.com/iamarturr/aioelschools
+
+------------
 
 Files structure
 ------------
